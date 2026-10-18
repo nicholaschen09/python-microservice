@@ -4,19 +4,7 @@
 
 Phoebe builds AI teammates for home health. A feature that we offer is the ability for home health agencies to report an open shift, and automatically trigger outreach (via SMS, phone call, and email) to qualifying caregivers in order to fill the shift as quickly as possible. You can see a demo of this functionality on our website: https://www.phoebe.work/call-out.
 
-For this project, you will build a simplified version of the shift fanout service.
-
-## Goal
-
-Build a Python micro-service that fills open caregiver shifts by fanning out SMS and voice notifications, accepting the first claim, and escalating if unfilled.
-
-## Guidelines
-
-- Plan to spend _roughly_ 2-3 hours on this assignment.
-- The included boilerplate code is only a suggested starting point — you may modify it as desired.
-- Do not add any additional third-party dependencies or external services.
-- You are welcome to use AI tools while working on this project, but please write the project reflection yourself.
-- Git commit your progress as you work to document your incremental process (don't squash your work into one commit)
+A Python micro-service that fills open caregiver shifts by fanning out SMS and voice notifications, accepting the first claim, and escalating if unfilled.
 
 ## Functional requirements
 
@@ -61,10 +49,6 @@ Upon completion, write a brief reflection on the project in [PROJECT_REFLECTION.
 - Explanation of how you used LLM tools in your process (if applicable).
 
 This written reflection is the only part of the assignment that we request you do NOT use AI tools to assist with. We want to hear your voice and writing style! It does not need to be long or extremely polished, but it should be your candid take on what you have created and your process of doing so.
-
-## Submission
-
-Make a ZIP file of the repo with your completed work and send it to us via email.
 
 ## Environment setup
 
