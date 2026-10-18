@@ -39,15 +39,6 @@ A Python micro-service that fills open caregiver shifts by fanning out SMS and v
 
 Everything else (how you model data, structure modules, design the service) is up to you to decide.
 
-## Project reflection
-
-Upon completion, write a brief reflection on the project in [PROJECT_REFLECTION.md](PROJECT_REFLECTION.md). Include:
-
-- Explanation of any design decisions or tradeoffs made.
-- Explanation of how you used LLM tools in your process (if applicable).
-
-This written reflection is the only part of the assignment that we request you do NOT use AI tools to assist with. We want to hear your voice and writing style! It does not need to be long or extremely polished, but it should be your candid take on what you have created and your process of doing so.
-
 ## Environment setup
 
 Install [uv](https://docs.astral.sh/uv/) (for Windows see [installation guide](https://docs.astral.sh/uv/getting-started/installation/)):
