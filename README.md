@@ -2,8 +2,6 @@
 
 ## Overview
 
-Phoebe builds AI teammates for home health. A feature that we offer is the ability for home health agencies to report an open shift, and automatically trigger outreach (via SMS, phone call, and email) to qualifying caregivers in order to fill the shift as quickly as possible. You can see a demo of this functionality on our website: https://www.phoebe.work/call-out.
-
 A Python micro-service that fills open caregiver shifts by fanning out SMS and voice notifications, accepting the first claim, and escalating if unfilled.
 
 ## Functional requirements
